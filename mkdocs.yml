@@ -20,3 +20,10 @@ markdown_extensions:
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - 首页: index.md
+  - 1.重力勘探(10'): 重力勘探.md
+  - 2.磁法勘探(10'): 磁法勘探.md
+  - 3.地震勘探(20'): 地震勘探.md
+  - 4.电(磁)法勘探(30'): 电(磁)法勘探.md
