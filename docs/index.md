@@ -1,18 +1,11 @@
-# Welcome to MkDocs
+# 说明
+这是一个关于**中南大学 832 -《地质与勘查基础》考试大纲**中**地球探测与信息技术方向**部分的知识点的内容。
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# 目录
+点击链接或者从侧边栏选择对应条目开始阅读。
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
+## 考纲内容
+1. [重力勘探(10分)](重力勘探.md)
+2. [磁法勘探(10分)](磁法勘探.md)
+3. [地震勘探（20分）](地震勘探.md)
+4. [电(磁)法勘探(30分)](电(磁)法勘探.md)
